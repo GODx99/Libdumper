@@ -8,7 +8,8 @@
 4. chomod 777 Libpatcher.sh
 
 # How to Run This Tool
-You can Run my Libdumper tool by using This command below 👇 
+You can Run my Libdumper tool by using This command 
+
 ./Libpatcher.sh
 
 Enjoy...🙂
