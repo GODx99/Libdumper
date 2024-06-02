@@ -11,3 +11,6 @@
 7. ./Libpatcher.sh
 
 Enjoy...🙂
+
+
+# By Using This Tool You can Dump Any Kind Of Lib [Specially libUE4.so , libgame.so and Any Other Coustom lib.so files]
