@@ -6,7 +6,7 @@ echo -e "\033[32m ⚪  VERSION : V1.0  \033[0m"
 echo -e "\033[33m ⚪  AUTHOR : KILLER [JULFIKUR]\033[0m"
 echo -e "\033[34m ⚪  REQUIREMENT : RADARE2 & GHIDRA \033[0m"
 
-options=("👑How To Install Radare2 And R2Ghidra ? " "👑Find Offsets In Lib..! " "👑Start Lib Patching..!" "👑Dump Lib..!" "⭕Exit..!")
+options=("👑Install Radare2 And R2Ghidra [Recommend] ? " "👑Find Offsets In Lib..! " "👑Start Lib Patching..!" "👑Dump Lib..!" "⭕Exit..!")
 
 function display_menu() {
     echo -e "\033[33m\n  SELECT AN OPTION -> \033[0m"
